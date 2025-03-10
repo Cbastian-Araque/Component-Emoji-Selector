@@ -1,27 +1,37 @@
 export const data = [
   {
-    sybmol: "😀",
+    symbol: "😀",
     name: "Cara alegre",
     keywords: "smiling face happy"
   },
   {
-    sybmol: "♥",
+    symbol: "❤",
     name: "Corazon",
     keywords: "hearth love like"
   },
   {
-    sybmol: "🔥",
+    symbol: "🔥",
     name: "fuego",
     keywords: "fire hot burn"
   },
   {
-    sybmol: "💎",
+    symbol: "💎",
     name: "diamante",
     keywords: "diamond gem stone"
   },
   {
-    sybmol: "🤯",
+    symbol: "🤯",
     name: "cabeza explotando",
     keywords: "head exploding mind blowing"
+  },
+  {
+    symbol: "😎",
+    name: "cara con gafas",
+    keywords: "head cool glass smile"
+  },
+  {
+    symbol: "🍕",
+    name: "pizza",
+    keywords: "meal pizza cheese"
   }
 ]
